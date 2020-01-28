@@ -18,5 +18,5 @@ It contains the Cloud Function that executes the images OCR-ization, through the
 
 1. "Target languages for translations" to `en`
 2. "Collection path" to `ocrTranslations`
-3. "Input field name" to ìnput`
+3. "Input field name" to `input`
 4. "Translations output field name" to `translated`
