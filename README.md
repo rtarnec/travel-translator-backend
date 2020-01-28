@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the Firebase project that works with the "Travel Translator Vue.js application, see https://github.com/rtarnec/travel-translator for more details.
+This is the Firebase project that works with the "Travel Translator" Vue.js application, see https://github.com/rtarnec/travel-translator for more details.
 
 It contains the Cloud Function that executes the images OCR-ization, through the Google Cloud Vision API.
 
