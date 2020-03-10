@@ -42,4 +42,4 @@ It contains the Cloud Function that executes the images OCR-ization, through the
 
 If you don't want to deploy the Vue.js web app in your Firebase project (for example, if you are not versed in Vue.js development or if you don't want to install the Vue CLI just for deploying a demo) you can interact with this backend code with a single HTML page that implements exactly the same core business logic and which is available at the following Gist: https://gist.github.com/rtarnec/4f026b04450a0526cc41c35a6926b4ff
 
-Follow the exact same instructions than above but instead of pasting the content of the `dist` folder of the Vue.js app into the `public` folder of your Firebase project, just paste the HTML page in the `public` folder as `index.html`.
+Follow the exact same instructions as above but instead of pasting the content of the `dist` folder of the Vue.js app into the `public` folder of your Firebase project, just paste there the above HTML page as `index.html`.
