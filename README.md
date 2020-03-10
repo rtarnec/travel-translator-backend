@@ -36,7 +36,7 @@ It contains the Cloud Function that executes the images OCR-ization, through the
 3. "Input field name" to input`
 4. "Translations output field name" to `translated`
 
-- Open your preferred browser and open your Firebase Hosting default page at `https://<you-project-id>.firebaseapp.com` (or `https://<you-project-id>.web.app`).
+- Open your preferred browser and navigate to your Firebase Hosting default page at `https://<you-project-id>.firebaseapp.com` (or `https://<you-project-id>.web.app`).
 
 ## Option
 
