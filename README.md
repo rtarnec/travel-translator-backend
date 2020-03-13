@@ -4,9 +4,9 @@
 
 This is the Firebase backend project that works with the "Travel Translator" Vue.js application (the front-end), see https://github.com/rtarnec/travel-translator for more details.
 
-**This "Travel Translator" Vue.js application, together with the Cloud Functions present in the Firebase Project are presented into detail in the following "Firebase Developers" Medium article: [How to Create an Image Translation Web App in 25 Lines of Code](https://medium.com/firebase-developers/how-to-create-an-image-translation-web-app-in-25-lines-of-code-e67460208d29).**
-
 It contains the Cloud Function that executes the images OCR-ization, through the Google Cloud Vision API, as well as the Cloud Storage and Cloud Firestore security rules.
+
+**This this Firebase backend project, together with the "Travel Translator" Vue.js application are presented into detail in the following "Firebase Developers" Medium article: [How to Create an Image Translation Web App in 25 Lines of Code](https://medium.com/firebase-developers/how-to-create-an-image-translation-web-app-in-25-lines-of-code-e67460208d29).**
 
 ## How to use it
 
